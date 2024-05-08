@@ -66,3 +66,8 @@ Naturally, we picked the YouTube submission. You can watch the video (horribly e
     <img height=500 src="https://img.youtube.com/vi/wXjS5M0aDrQ/0.jpg"> 
 </a>
 
+# Final Remarks
+
+This project was quite an enjoyable one. Many thanks to my groupmates for making this project bearable, as well as the teaching team for creating this module for us to learn and ~~suffer?~~ enjoy! 
+
+If you are taking this module in the future and are reading this, do feel free to take some inspiration from our implementations (and possibly improve on it)! However, the teaching team has mentioned likely changes to be implemented in the following semesters (I heard there might be gesture-control, voice commands... 😙), so do take note. Also keep in mind of NUS' plagiarism policy! 😅
