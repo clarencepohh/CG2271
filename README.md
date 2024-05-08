@@ -1,11 +1,3 @@
-<style>
-    img {
-        display: block; 
-        margin-left: auto;
-        margin-right: auto;
-    }
-</style>
-
 ## Note from the owner of this repository
 
 Hello! It's Clarence, one of the developers of the CG2271 project. 
