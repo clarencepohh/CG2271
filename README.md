@@ -1,3 +1,11 @@
+<style>
+    img {
+        display: block; 
+        margin-left: auto;
+        margin-right: auto;
+    }
+</style>
+
 ## Note from the owner of this repository
 
 Hello! It's Clarence, one of the developers of the CG2271 project. 
@@ -42,4 +50,19 @@ The project was done in groups of 4-5 members, with no additional budget given, 
 
 The project allowed us to learn more about working in an RTOS-enabled environment, working with multiple threads (on a single cored processor in this case) and how to prevent race conditions using OS constructs to protect critical sections of our code (like Mutexes and Semaphores). It was a step-up in difficulty from what I'd done previously in introduction courses like EPP1 (CG1111A) and EPP2 (CG2111A) where we worked with Arduinos and RPi. 
 
+# The finished product
+
+This is what our final robot looks like: 
+
+<img height=300 src="CG2271 Robot Image.jpg">
+
+There was a video submission that required us to submit either:
+- A 2-3 min YouTube submission at the end of the semester;
+- 3 TikTok videos (>= 1min each) to be spread across the semester.
+
+Naturally, we picked the YouTube submission. You can watch the video (horribly edited by yours truly, with my more-than subpar editing abilities) below: 
+
+<a href="https://www.youtube.com/watch?v=wXjS5M0aDrQ"> 
+    <img height=500 src="https://img.youtube.com/vi/wXjS5M0aDrQ/0.jpg"> 
+</a>
 
