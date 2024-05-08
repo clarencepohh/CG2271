@@ -52,7 +52,7 @@ There was a video submission that required us to submit either:
 - A 2-3 min YouTube submission at the end of the semester;
 - 3 TikTok videos (>= 1min each) to be spread across the semester.
 
-Naturally, we picked the YouTube submission. You can watch the video (horribly edited by yours truly, with my more-than subpar editing abilities) below: 
+Naturally, we picked the YouTube submission. You can watch the video (horribly edited by yours truly, with my more-than subpar editing abilities) by clicking on the thumbnail below: 
 
 <a href="https://www.youtube.com/watch?v=wXjS5M0aDrQ"> 
     <img height=500 src="https://img.youtube.com/vi/wXjS5M0aDrQ/0.jpg"> 
